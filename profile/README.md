@@ -1,4 +1,4 @@
-![banner](../ceccomp-banner.svg)
+![banner](/ceccomp-banner.png)
 
 This is the official organization of ceccomp development. Ceccomp is not a
 component of [libseccomp](https://github.com/seccomp), but ceccomp use
